@@ -6,7 +6,7 @@
 
 - Open a WSL terminal and clone the byu-agrobot repository into your Linux environment using `git clone https://github.com/byu-agrobotics/byu-agrobot.git`.
 
-- Navigate into the AgRobot repository and run `bash setup.sh` to pull our sub-level repositories and set up the coding environment.
+- Navigate into the byu-agrobot repository and run `bash setup.sh` to pull our sub-level repositories and set up the coding environment.
 
 - Run `bash compose.sh` to pull and launch the latest Docker image from DockerHub.
 
