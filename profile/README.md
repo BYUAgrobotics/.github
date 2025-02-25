@@ -4,7 +4,7 @@
 
 - Install Docker Desktop on your Windows machine by following the instructions [here](https://docs.docker.com/desktop/), and enable the WSL 2 backend by following the instructions [here](https://docs.docker.com/desktop/windows/wsl/).
 
-- Open a WSL terminal and clone the AgRobot repository into your Linux environment using `git clone https://github.com/BYUAgrobotics/AgRobot.git`.
+- Open a WSL terminal and clone the byu-agrobot repository into your Linux environment using `git clone https://github.com/byu-agrobotics/byu-agrobot.git`.
 
 - Navigate into the AgRobot repository and run `bash setup.sh` to pull our sub-level repositories and set up the coding environment.
 
