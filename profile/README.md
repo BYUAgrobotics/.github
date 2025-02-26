@@ -30,7 +30,9 @@
 
 ### Helpful Resources:
 
-GitHub Workflow Tutorial - [https://docs.github.com/en/get-started/start-your-journey/hello-world](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+Linux Command Line Tutorial - [https://linuxjourney.com/lesson/the-shell](https://linuxjourney.com/lesson/the-shell)
+
+GitHub Basics Tutorial - [https://docs.github.com/en/get-started/start-your-journey/hello-world](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 
 Docker Concepts and Tutorials - [https://docs.docker.com/get-started/introduction/whats-next/](https://docs.docker.com/get-started/introduction/whats-next/)
 
@@ -41,6 +43,8 @@ ROS 2 CLI Tutorials - [https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Too
 ROS 2 Code Tutorials - [https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries.html](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries.html)
 
 Robotics in ROS 2 Tutorials - [https://github.com/henki-robotics/robotics_essentials_ros2/tree/main](https://github.com/henki-robotics/robotics_essentials_ros2/tree/main)
+
+Diff Drive w ros2_controls Tutorial - [https://control.ros.org/rolling/doc/ros2_control_demos/example_2/doc/userdoc.html](https://control.ros.org/rolling/doc/ros2_control_demos/example_2/doc/userdoc.html)
 
 --
 
